@@ -1,4 +1,4 @@
-# Introduction:
+# An Introduction:
 Deploying AI today became a major factor or rule in asserting business everywhere; it proved its ability to look for the main keys in such an enterprise by checking its operational cost, endurance and client satisfaction. 
 
 
